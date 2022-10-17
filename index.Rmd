@@ -146,6 +146,13 @@ You will actually need to create this for the full report so we when you have th
 
 With these assignments we are aiming to cover a variety of different elements - teaching research methods and statistics, teaching academic writing, teaching planning and design, giving some snapshot of what it is like to work with real data - but at the same time cater to the interests of a large diverse population (yourselves). The MSLQ study is nice in that it covers a range of topics and areas and it is something that we think you would all be interested in, to varying degrees, given that you have chosen to do this course - i.e. perhaps reflecting on your own reasoning might help generate questions and ideas for your discussions. There is also good research to suggest that working with real data in an area of interest is a good approach to making research methods accessible. Unfortunately we can't just have everyone run their own project as there is a lot of knowledge and skill to develop first, not to mention ethical considerations. Hopefully though by the end of the process you see the benefits of the approach we use and that the a lot of the knowledge and skill you get from this project you can take forward into future assignments and into future projects.
 
+### What year and how was the data from the MSLQ collected?
+
+In reality the questionnaire was opened to predominantly in Level 1 (First year undergraduate class) and MSc labs, and students were asked to complete it as part of their course. Originally yhey could also send the invite to others meaning that we can’t guarantee that everyone was in the University of Glasgow. It was also left open on the main experiment page so others could do it as well. 
+
+In terms of when data collection started, there is a data-stamp on the datafiles that can indicate when first data was obtained but it is approximately early in 2020.
+
+
 # Research Questions & Hypotheses
 
 ### What is the difference between a Research Question and a hypothesis?
@@ -211,6 +218,23 @@ Yes. A key goal of pre-registration is to show that you have tried to justify yo
 ### Do all sections need citations?
 
 Not specifically. Think about what a citation is doing. Citations add information, they give supporting evidence, and they start or continue a discussion. It might help to think about citations as part of a conversation and you are using them to give information to someone who has just stepped into the conversation and doesn't know the prior discussion (this is explained better in this paper here:[ncbi.nlm.nih.gov/pmc/articles/PMC4602011/](ncbi.nlm.nih.gov/pmc/articles/PMC4602011/)). But what this means is that at times you will need to give support to some of your claims or decisions by giving a citation.  Say for example you state that your research question is only interested in postgraduate students so you are going to remove all participants that are not postgraduates. This isn't really a discussion point so you wouldn't need a citation. If however you said, "we plan to remove participants who are over the age of 25 as they are not considered to be in Early Adulthood" then this statement would need a citation because you are showing support for the claim and the decision. In reality it can be better to cite than not cite, but that uses up space, so try to think about what you are doing with a citation and that might help.
+
+### Is there an appropriate number of citations to use in a report?
+
+It is a tough thing to answer as there is no right answer but you basically want to watch out for too few and too many citations. Particularly when you have a word count. You need to be careful of giving a whole lot of citations (5, 6, 7, etc) to support a point when two or three would have done. At one point you start taking away words that you could have used to clarify the point better for the reader. So that is really the thing you are trying to do - make sure a point is clear and is supported. Some people aim for about two or three citations to show a point is supported, but that is really rough and sometimes it might be 4 or it might be 1 depending on how well supported the point actually is. If only one paper has looked at something then I can only cite one paper. If it helps, some journals recommend no more than 40 citations for a 3000-4000 article and you are probably not too far wrong if you aim for something like that.
+
+### Do you use citations differently in different parts of the introduction?
+
+Whilst there is no rule here, some tend to be a bit heavy on citations in the opening paragraph of an introduction, and here you might see the citations per point creep up a little as people set the scene and just try to give a broad overview. After that first paragraph the tendency is to only use numerous citations where needed. Really, making sure the detail comes across - whatever detail you need your reader to focus on - is better than 4 or 5 additional citations beyond the two or three that already showed the point. The distinction here is that, at the start, you are less focused on details and more focused on general findings, so you add a few additional citations maybe, whereas the further you get into the introduction the more detail you tend to pull out, so the citations get a little less heavy and a lot more focused. In addition, from a purely blunt word count perspective, one way to think about it is that if we say on average a citation is four words - citation et al., 20XX - if three citations show the point but you add 7 citations to really hammer it home, then those 4 additional citations use up 16 words that could have been used elsewhere. Ultimately it is always a trade-off sadly but hopefully that gives some insight!
+
+### Can you summarise the issues of too few and too many citations?
+
+Again this is trying to put a number on something that doesn't really have a rule in the world. The main thing to think about is showing support for points and showing relevant detail to help the reader understand the point you are making. You are the expert and your role is to convey information to a reader efficiently. But to try to give two points to watch out for:
+
+* Using one citation or repeatedly using the same citation suggests a limited background to the research and doesn't give the reader a good sense of what is already know. All the information is taken from one perspective. Imagine hearing about an incident or an event where you only here it from one person. They might give you lots of detail but you can't verify it is supported by others.
+* Using lots and lots of citations may lead to running out of words and whilst the reader sees the support for the point, the point you are making, in itself, might not be clear and may be lacking the detail that the reader needs to understand what is being talked about. Imagine hearing about an incident or an event from lots and lots of people. In this instance you get to know that a lot of people are talking about the incident but you probably can't take in all the details or the details are short as you are trying to hear from everyone.
+
+So the trade-off of detail and support is the balance you are aiming for when thinking about how many citations to include.
 
 # Methodology
 
