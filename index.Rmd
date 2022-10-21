@@ -152,6 +152,9 @@ In reality the questionnaire was opened to predominantly in Level 1 (First year 
 
 In terms of when data collection started, there is a data-stamp on the datafiles that can indicate when first data was obtained but it is approximately early in 2020.
 
+### Is there an exemplar of a complete submission we can look at?
+
+Whilst full exemplars can have benefit, as any complete exemplar would be from the same assignment it would have risks of plagiarism and we do not want to set up bad practice. However over the semester we make available and discuss examples for the subsections and give many bits of advice: you can find those in the lab slides and materials on Moodle. Reviewing these next to the questions in the pre-registration to see the connections. In addition, the OSF has professional examples, which might help to look at and think about what they are presenting. You can view these by going to the registries section on the OSF to see some  examples: [https://osf.io/registries](https://osf.io/registries){target="_blank"} 
 
 # Research Questions & Hypotheses
 
