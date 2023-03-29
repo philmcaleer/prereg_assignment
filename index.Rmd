@@ -422,6 +422,6 @@ Not specifically. Think about what a citation is doing. Citations add informatio
 
 ### What should I do if my question isn't covered here?
 
-This document is meant to help cover a number of points but it won't cover everything. If you still have questions then by all means please ask them on the channel and we can add them here if that would help.
+This document is meant to help cover a number of points but it won't cover everything. If you still have questions then, by all means, please ask them on the channel and we can add them here if that would help.
 
 **End of document**
